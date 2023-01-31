@@ -11,6 +11,20 @@
       },
       "url": "https://package.openupm.com"
     },
+    "com.gemserk.aseprite": {
+      "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.aseprite",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+    },
+    "com.gemserk.leopotamecs": {
+      "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.leopotamecs",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+    },
     "com.gemserk.refactortools": {
       "version": "0.0.6",
       "depth": 0,
@@ -20,6 +34,83 @@
     },
     "com.gemserk.selectionhistory": {
       "version": "1.1.8",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.gemserk.triggers": {
+      "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.triggers",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+    },
+    "com.gemserk.triggers.extensions": {
+      "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.triggers.extensions",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.gemserk.utilities": "0.0.1",
+        "com.gemserk.triggers": "0.0.1",
+        "com.mackysoft.serializereference-extensions": "1.1.7",
+        "com.leoecscommunity.ecslite": "1.0.0",
+        "com.gemserk.leopotamecs": "0.2.3",
+        "com.domybest.mybox": "1.7.0"
+      },
+      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+    },
+    "com.gemserk.utilities": {
+      "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.utilities",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+    },
+    "com.leoecscommunity.ecslite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.leoecscommunity.ecslite.di": {
+      "version": "https://github.com/LeoECSCommunity/ecslite-di.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e70e4f982cb324204f80a60516a4a7dda5620aa3"
+    },
+    "com.leoecscommunity.ecslite.unityeditor": {
+      "version": "https://github.com/LeoECSCommunity/ecslite-unityeditor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "2a8af59a6e15ecbd34783d32dbb37059e663e7f6"
+    },
+    "com.mackysoft.serializereference-extensions": {
+      "version": "1.1.7",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.marijnzwemmer.unity-toolbar-extender": {
+      "version": "1.4.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.oss.leantween": {
+      "version": "2.50.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "com.tayx.graphy": {
+      "version": "3.0.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {},

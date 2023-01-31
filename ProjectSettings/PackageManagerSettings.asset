@@ -36,6 +36,9 @@ MonoBehaviour:
     - com.vertx
     - com.oss.leantween
     - com.mackysoft.serializereference-extensions
+    - com.tayx.graphy
+    - com.marijnzwemmer.unity-toolbar-extender
+    - com.antonysze.custom-play-button
     m_IsDefault: 0
     m_Capabilities: 0
     m_ConfigSource: 4
