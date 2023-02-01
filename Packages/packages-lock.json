@@ -44,7 +44,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+      "hash": "6ed6570b812edcd73c30e233a6de1a22662b1ead"
     },
     "com.gemserk.triggers.extensions": {
       "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.triggers.extensions",
@@ -58,7 +58,7 @@
         "com.gemserk.leopotamecs": "0.2.3",
         "com.domybest.mybox": "1.7.0"
       },
-      "hash": "59cd6fa91d6e1fb4466180440633af210841ca8d"
+      "hash": "6ed6570b812edcd73c30e233a6de1a22662b1ead"
     },
     "com.gemserk.utilities": {
       "version": "https://github.com/acoppes/unity-gemserk-utilities.git?path=/Packages/com.gemserk.utilities",
